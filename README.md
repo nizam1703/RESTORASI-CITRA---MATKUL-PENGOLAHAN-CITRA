@@ -6,4 +6,5 @@ ISI SOURCE CODE
 - Mengurangi noise dengan filter Min, Max, Median dan Mean
 - Menghitung nilai MSE-nya
 - Menyimpan semua gambar dalam direktori yang di buat (result)
- [restorasi.py](https://github.com/user-attachments/files/24172609/restorasi.py)
+
+[restorasi.py](https://github.com/user-attachments/files/24172609/restorasi.py)
